@@ -8,13 +8,15 @@ const mywork_data = [
         w_no: 1,
         w_name: "TEAMSYNC- COLLABORATIVE PROJECT MANAGEMENT TOOL",
         w_img: project1_img,
-        w_desc: "Simplifies team communication, task tracking, and project organization. It empowers teams to work efficiently by providing real-time updates,interactive dashboards, and seamless collaboration."
+        w_desc: "Simplifies team communication, task tracking, and project organization. It empowers teams to work efficiently by providing real-time updates,interactive dashboards, and seamless collaboration.",
+        w_link: "https://github.com/MentorTeamSync/teamsync_Infosys_Internship_Oct2024"
     },
     {
         w_no: 2,
         w_name: "POTATO LEAF DISEASE PREDICTION",
         w_img: project2_img,
-        w_desc: "An AI-based project that detects and classifies diseases in potato leaves using image processing and machine learning."
+        w_desc: "An AI-based project that detects and classifies diseases in potato leaves using image processing and machine learning.",
+        w_link: "https://github.com/Tejashree1962/AICTE-Internship-PotatoLeafDiseasePrediction-Project"
     },
     {
         w_no: 3,
